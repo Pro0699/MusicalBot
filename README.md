@@ -5,6 +5,8 @@ A complete code to download for a music bot. It has cool filters like Bassboost,
 - invite my personal bot online 24/7 [click here](https://bit.ly/musicalbot)
 - Join my [discord server](https://discord.gg/KU77fNm)
 
+### Filters
+bassboost, 8D, vaporwave, nightcore, phaser, tremolo, vibrato, reverse, treble, normalizer, surrounding, pulsator, subboost, karaoke, flanger, gate, haas, mcompand
 
 
 ### Getting for yourself
