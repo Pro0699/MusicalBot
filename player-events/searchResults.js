@@ -4,7 +4,7 @@ module.exports = (client, message, query, tracks) => {
         embed: {
             color: 'BLUE',
             author: { name: `Here are your search results for ${query}` },
-            footer: { text: 'bit.ly/musicalbot)' },
+            footer: { text: 'bit.ly/musicalbot' },
             timestamp: new Date(),
             description: `${tracks.map((t, i) => `**${i + 1}** - ${t.title}`).join('\n')}`,
         },
