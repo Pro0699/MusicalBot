@@ -20,7 +20,7 @@ For the bot to be able to start, please complete the file with your credentials 
     "game": "GAME",
     "prefix": "PREFIX",
     "token_bot": "TOKEN"
-}
+} 
 ```
 
 In the console, type `npm install` to install all dependencies.
