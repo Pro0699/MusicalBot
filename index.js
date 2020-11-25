@@ -42,7 +42,6 @@ fs.readdir("./commands/", (err, files) => {
     });
 
 
-
 });
 
 client.login(settings.token_bot);
