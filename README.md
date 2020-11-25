@@ -1,6 +1,10 @@
 # Music-bot
 A complete code to download for a music bot. It has cool filters like Bassboost, NightCore and more
 
+## If you dont want to do all this stuff
+- invite my personal bot online 24/7 [click here](https://bit.ly/musicalbot)
+- Join my [discord server](https://discord.gg/KU77fNm)
+
 
 
 ### Getting for yourself
@@ -46,3 +50,6 @@ In order to remove any command just delete the file 90% it will work if not then
  [Discord-Player](https://github.com/Androz2091/discord-player).
 
 This is used with [discord.js](https://www.npmjs.com/package/discord.js)
+
+### More Coming Soon
+Moderation and Fun commands
